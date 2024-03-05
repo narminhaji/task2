@@ -13,7 +13,7 @@
   }
     .cercive {
       text-align: center;
-      background-color: #318ca5;
+      background-color: #032b36;
       color: #ffffff;
       width: 1000px;
       height: 2000px;
@@ -52,6 +52,7 @@
     
   }
   .a{
+    text-transform: uppercase;
     text-align:initial;
     letter-spacing: .5rem;
     font-family: "Madimi One", sans-serif;
@@ -80,7 +81,7 @@
     font-style: normal;
   }
   .ph{
-    
+   
     font-optical-sizing: auto;
     color: #000000; 
     text-shadow: -3px 3px 2px #FF0000;
