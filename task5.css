@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Ojuju:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Madimi+One&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Ojuju:wght@200..800&display=swap');
+ h1 {
+    color: rgb(10, 0, 0);
+    text-align: center;
+  }
+   .center {
+    text-align: center;
+     border: 3px solid rgb(9, 145, 183);
+    size: 600;
+    margin: auto;
+  }
+    .cercive {
+      text-align: center;
+      background-color: #318ca5;
+      color: #ffffff;
+      width: 1000px;
+      height: 2000px;
+      border: 3px dotted red  ;
+    box-shadow: -3px -5px 20px -2px rgba(232,23,23,1);
+    -webkit-box-shadow: -3px -5px 20px -2px rgba(232,23,23,1);
+    -moz-box-shadow: -3px -5px 20px -2px rgba(232,23,23,1);
+      
+  
+      font-family:fantasy;
+      font-weight: 400;
+      font-style: normal
+  } 
+  #hitler{
+    margin-left: auto;
+    margin-right: auto;
+    width: 330px;
+    height: 440px;
+    border-style: solid;
+    border-width: meium;
+    border: 3px dotted rgb(255, 255, 255)  ;
+  box-shadow: -3px -5px 20px -2px rgb(255, 255, 255);
+  -webkit-box-shadow: -3px -5px 20px -2px rgb(255, 255, 255);
+  -moz-box-shadow: -3px -5px 20px -2px rgb(255, 255, 255);
+  }
+  .p{
+    text-align: justify;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+  }
+  .h2{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+  }
+  .a{
+    text-align:initial;
+    letter-spacing: .5rem;
+    font-family: "Madimi One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    text-underline-position: auto;
+    text-shadow: -3px 3px 2px #FF0000;
+
+}
+  #hi{
+    
+    margin-left: auto;
+    margin-right: auto;
+    width: 540px;
+    height: 360px;
+    border-style: solid;
+    border-width: medium;
+    border: 3px dotted rgb(255, 255, 255)  ;
+  box-shadow: -3px -5px 20px -2px rgb(255, 255, 255);
+  -webkit-box-shadow: -3px -5px 20px -2px rgb(255, 255, 255);
+  -moz-box-shadow: -3px -5px 20px -2px rgb(255, 255, 255);
+  }
+  .pp{
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing: auto;
+  }
+  .ph{
+    
+    font-optical-sizing: auto;
+    color: #000000; 
+    text-shadow: -3px 3px 2px #FF0000;
+    font-family: "Nunito", sans-serif;
+
+  }
